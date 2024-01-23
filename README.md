@@ -1,4 +1,4 @@
 # test_repo
 Some info about the project.
-Locat changes
-This is some text for conflict
+Local changes
+This is some more text for conflict
